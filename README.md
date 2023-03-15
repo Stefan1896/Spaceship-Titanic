@@ -1,4 +1,4 @@
-# Spaceship-Titanic (Python)
+# Spaceship Titanic (Python)
 
 I done this project on Kaggle, where I participated in a Getting Started Competition using Python. The project includes an extensive EDA along with some basic Machine Learning.
 
